@@ -1,32 +1,58 @@
 # Olga Tolkacheva
 
+![image](https://user-images.githubusercontent.com/106727877/172438878-b04cc6db-6c05-473b-a619-54206ebbcf2c.png)
+
+
 ## **Contacts**
-*Git:* Oltol
-*Discord:* Oltol#4836
-*E-mail:* platon.tolkachev@gmail.com
+```
+
+Git: Oltol
+
+Discord: Oltol#4836
+
+E-mail: platon.tolkachev@gmail.com
+```
 
 ## **General**
+Whished position: **_Business Analyst_**
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 ## **Skills**
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+* Excel
+* Power Query
+* Power BI
+
 ## **Code example**
-Примеры кода
+
+```
+ms = []
+for i in f:
+    if i[0] in m:
+        ms.append(i)
+f.seek(0,0)
+f.writelines(ms)
+f.close()
+```
+<!-- This content will not appear in the rendered Markdown -->
+
+
 ## **Experience**
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+* Analyst
+* Sales & Supply Support Manager
+* Logistics Manager
+* Sales Manager
+* Flow & Capacity Planner
+
 ## **Education**
-Образование (включая пройденные курсы и тренинги)
+* The International Market Institute, Management of organisation
+* The Communication College of the Federal State Budget Educational Institution of Higher Education “Povolzhskiy State University of Telecommunications and Informatics”, Computer Systems Programming
+
 ## **Other information**
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+
+**Language**
+- Russian: native
+- English: Pre-Intermediate
 
 
-оформление CV на ваше усмотрение. Старайтесь выполнить работу максимально качественно. При выборе дизайна CV можно руководствоваться примерами, приведёнными в материалах к заданию
-CV составляется на английском языке.
-при составлении CV рекомендуется указывать реальные данные
-в CV добавьте своё фото или аватарку. Фото предпочтительнее
-в CV укажите актуальные контакты для связи, в т.ч никнейм на дискорд-сервере rs school
-в качестве примера кода приведите решение задачи с сайта Codewars.
-Если решённых задач пока нет, подойдёт задача, которую нужно решить при регистрации на Codewars
-код добавляется при помощи символов и тегов, а не картинкой
-для выполненных проектов добавьте название проекта, ссылку на код проекта на гитхабе или ссылку на страницу проекта.
-Если выполненных проектов пока нет, в качестве первого проекта укажите само CV
+`For more details:` [GitHub Pages](https://github.com/Oltol/rsschool-cv/cv)
+
+:wave:
