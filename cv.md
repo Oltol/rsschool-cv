@@ -53,6 +53,6 @@ f.close()
 - English: Pre-Intermediate
 
 
-`For more details:` [GitHub Pages](https://github.com/Oltol/rsschool-cv/cv)
+`For more details:` [GitHub Pages](https://oltol.github.io/rsschool-cv/cv)
 
 :wave:
